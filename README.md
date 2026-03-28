@@ -28,7 +28,7 @@ Currently exploring **AI/ML**, **Full-Stack Development**, and **Data Analytics*
 
 - 🏠 **[Fixxo](https://github.com/swaraj3092/fixxo)** – WhatsApp-based hostel complaint management system built at KIIT Fest Hackathon (Open Source Forge). Built with React + Flask, deployed on Render.
 - 🫀 **CardioPredict AI** – Heart disease prediction using multi-model ML pipeline with Flask API & React UI.
-- 🫁 **Lung Cancer Detection** – 3D CNN model trained on the LUNA16 dataset for early detection.
+- 😡/😠**Speech Emotion & Stress Detection – Hybrid Deep Learning Model
 
 ---
 
